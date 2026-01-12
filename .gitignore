@@ -1,1 +1,6 @@
 gcp-key.json
+gcp-key.json
+gcp-key.json
+__pycache__/
+venv/
+*.pkl
