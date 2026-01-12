@@ -4,3 +4,5 @@ gcp-key.json
 __pycache__/
 venv/
 *.pkl
+
+!diabetes_model.pkl
